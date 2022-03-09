@@ -10,6 +10,8 @@ public class Main {
 
         System.out.println("Feature 2 added");
 
+        System.out.println("bugfix 1");
+
     }
 }
 
