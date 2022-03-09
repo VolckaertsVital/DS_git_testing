@@ -12,6 +12,8 @@ public class Main {
 
         System.out.println("bugfix 1");
 
+        System.out.println("a lot of bugs");
+
     }
 }
 
