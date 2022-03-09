@@ -4,6 +4,12 @@ public class Main {
 
         System.out.println("Hello world");
 
+
+        System.out.println("Feature 1 added");
+
+
+        System.out.println("Feature 2 added");
+
     }
 }
 
